@@ -46,7 +46,7 @@ End-to-end claims analytics pipeline: root cause analysis across joined SQL tabl
 ## 📜 Certification
 
 **Microsoft Certified: Fabric Analytics Engineer Associate**
-→ → [Verify credential](https://learn.microsoft.com/en-us/users/trineshvuribindi-2141/credentials/ee8e4ff074331db2)
+→ [Verify credential](https://learn.microsoft.com/en-us/users/trineshvuribindi-2141/credentials/ee8e4ff074331db2)
 
 ---
 
