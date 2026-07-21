@@ -4,7 +4,7 @@
 
 I turn messy, high-volume data into decisions businesses act on. Five years building star-schema models on millions of records, SQL pipelines that got 40% faster, and ML models that flag risk at 87% precision. Microsoft Certified Fabric Analytics Engineer.
 
-📍 Chicago area · 📫 thrineshvuribindi@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/thrineshvuribindi)
+📍 Chicago, IL · 📫 thrineshvuribindi@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/thrineshvuribindi)
 
 ---
 
