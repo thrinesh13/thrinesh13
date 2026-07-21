@@ -46,14 +46,18 @@ End-to-end claims analytics pipeline: root cause analysis across joined SQL tabl
 ## 📜 Certification
 
 **Microsoft Certified: Fabric Analytics Engineer Associate**
+
+Power BI is moving to Fabric, and I'm already there: lakehouses, data warehouses, semantic models, SQL analytics, and performance-tuned DAX on Microsoft's unified data platform.
 → [Verify credential](https://learn.microsoft.com/en-us/users/trineshvuribindi-2141/credentials/ee8e4ff074331db2)
 
 ---
 
-## 📈 What I've shipped
+## 📈 Impact Highlights 
 
 - Built 10+ interactive Power BI reports with 40+ KPIs for performance monitoring and ad-hoc analysis
 - Cut dashboard load times from 13s to 6s on 4M+ records with star-schema modeling and optimized DAX
 - Automated Snowflake data quality checks across 10M+ records, reducing manual validation by 85%
 - Developed predictive models for customer segmentation and claims risk scoring (K-means, RFM, classification)
+- Uncovered a 26% retention decline among first-quarter signup customers by analyzing 500K+ records, driving retention of 10% of at-risk accounts
+- Modeled pricing and profitability in Excel across 100K+ transactions, improving margin accuracy by 8%
 
