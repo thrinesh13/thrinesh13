@@ -1,6 +1,6 @@
 # Hi, I'm Thrinesh Vuribindi 👋
 
-**Data Analyst | 5 years turning messy data into decisions | Power BI · SQL · Python · Excel**
+**Data Analyst | 5 years turning messy data into business decisions | Power BI · SQL · Python · Excel**
 
 I turn messy, high-volume data into decisions businesses act on. Five years building star-schema models on millions of records, SQL pipelines that got 40% faster, and ML models that flag risk at 87% precision. Microsoft Certified Fabric Analytics Engineer.
 
