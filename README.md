@@ -1,4 +1,9 @@
 <p align="center">
+  <a href="https://thrinesh13.github.io"><img src="https://img.shields.io/badge/View_Portfolio-Explore-0B7285?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View portfolio" /></a>
+  <a href="https://thrinesh13.github.io/Thrinesh_Vuribindi_Data_Analyst.docx"><img src="https://img.shields.io/badge/Resume-Download-334155?style=for-the-badge&logo=readme&logoColor=white" alt="Download resume" /></a>
+</p>
+
+<p align="center">
   <img src="./assets/profile-banner.svg" alt="Thrinesh Vuribindi — Data and Business Intelligence Analyst" width="100%" />
 </p>
 
