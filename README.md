@@ -13,42 +13,81 @@
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/TRINESHVURIBINDI-2141/EE8E4FF074331DB2?sharingId=979AA3280A84AE7C"><img src="https://img.shields.io/badge/Microsoft-Fabric_Certified-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric certification" /></a>
 </p>
 
-## From Messy Data to Trusted Decisions
+## Data & Business Intelligence Analyst
 
-I'm a **Data and Business Intelligence Analyst with 5 years of experience** transforming complex, inconsistent data into governed, decision-ready analytics.
+**5 years of experience** using SQL, Power BI, Tableau, Python, and statistical analysis to turn complex data into clear business insight.
 
-I build reliable data foundations—from profiling and validation through transformation, modeling, and KPI definition—then deliver clear BI solutions that support confident, data-driven decisions.
+I work across the analytics lifecycle: understanding stakeholder questions, profiling and validating data, analyzing trends and anomalies, building analytical models and KPIs, and communicating findings through dashboards and reports.
 
-My experience spans **healthcare, finance, and operations**, where data quality, consistent definitions, lineage, privacy, and access are essential to trustworthy reporting.
+**What I work with:** Power BI · Tableau · SQL · Python · DAX · Data Visualization · Statistical Analysis · Data Modeling · Requirements Gathering · Data Quality
 
-<p align="center"><strong>St. Louis, Missouri · Open to relocation · Available for onsite, hybrid, or remote roles across the United States</strong></p>
+<p align="center"><strong>St. Louis, Missouri · Open to relocation · Onsite, hybrid, or remote opportunities across the United States</strong></p>
 
 ---
 
-## Featured Projects
+## Selected Analytics Projects
 
 ### [Operating Room Scheduling Reliability & Cost Exposure](https://github.com/thrinesh13/OR-Scheduling-Reliability-Analytics)
 
-`Healthcare` `Operations` `Microsoft Fabric` `Power BI`
+`Power BI` `SQL` `Microsoft Fabric` `PySpark` `DAX` `Data Modeling`
 
-Built an end-to-end medallion analytics solution from **1.9M+ perioperative records**, producing a curated model of **48,118 surgical cases across 418 procedures**. The analysis found a **54.1-minute average absolute difference** from historical procedure-duration benchmarks and estimated **$15.8M–$27.1M in annual gross cost exposure** under two planning scenarios.
+Built an end-to-end analytics solution from **1.9M+ perioperative records**, producing **48,118 analysis-ready surgical cases across 418 procedures**. Developed a Power BI semantic model and analyzed scheduling variance to quantify a **54.1-minute mean absolute difference** and **$15.8M–$27.1M in estimated annual gross time-cost exposure** under documented scenarios.
 
-**Highlights:** 1.9M+ records · 48,118 cases · 418 procedures · 54.1-minute average absolute difference
+**Shows:** data preparation · data quality investigation · star-schema modeling · KPI development · Power BI · operational analysis · business impact
 
-[View project →](https://github.com/thrinesh13/OR-Scheduling-Reliability-Analytics)
+[View case study →](https://github.com/thrinesh13/OR-Scheduling-Reliability-Analytics)
 
 ### [Medicare Claims Processing Analytics](https://github.com/thrinesh13/Medicare-Claims-Processing-Analytics)
 
-`Healthcare` `Finance` `Decision Analytics`
+`Python` `SQL` `Power BI` `Decision Analytics`
 
-Compared manual review, rules-based processing, and checks-plus-score policies on **6,627 evaluation-period submissions**. Under the documented assumptions, the combined policy prevented **100 incorrect automatic approvals** compared with basic checks and produced **$73,194 in net savings** versus manual review.
+Evaluated alternative claims-processing policies to understand automation, incorrect approvals, and operational tradeoffs. Compared manual review, basic validation checks, and a checks-plus-risk-score approach using a documented evaluation framework.
 
-**Highlights:** 6,627 evaluated submissions · 100 incorrect approvals prevented · $73,194 scenario-based net savings
+**Shows:** exploratory analysis · business-rule evaluation · SQL/Python analysis · visualization · decision support
 
-[View project →](https://github.com/thrinesh13/Medicare-Claims-Processing-Analytics)
+[Explore analysis →](https://github.com/thrinesh13/Medicare-Claims-Processing-Analytics)
 
-### [Apple Statistical Time-Series Analysis](https://github.com/thrinesh13/Statistical-Time-series-analysis)
+### [Statistical Time-Series Analysis](https://github.com/thrinesh13/Statistical-Time-series-analysis)
 
-`Finance` `Statistical Analysis` `Python`
+`Python` `Pandas` `SciPy` `Statistics` `Visualization`
 
-Analyzed **1,254 trading days** of Apple market data and tested four assumptions involving volatility, volume, calendar effects, and return distributions. The work shows how measurement choices and distribution assumptions can materially change financial conclusions.
+Analyzed **1,254 trading days** of Apple market data using trend analysis, hypothesis testing, correlation analysis, and visualization. Tested four risk assumptions and rejected three at the **95% confidence level**.
+
+**Shows:** statistical analysis · hypothesis testing · trend analysis · data visualization · analytical communication
+
+[Review study →](https://github.com/thrinesh13/Statistical-Time-series-analysis)
+
+---
+
+## Professional Snapshot
+
+| Area | Experience |
+|---|---|
+| **Business Intelligence** | Power BI, Tableau, DAX, Power Query, KPI reporting, semantic models, self-service dashboards |
+| **Data Analysis** | SQL, Python, exploratory analysis, trends, anomalies, statistical analysis, hypothesis testing |
+| **Data Modeling** | Star schemas, analytical datasets, relational data, metric definitions |
+| **Data Platforms** | BigQuery, SQL Server, Oracle, PostgreSQL, Snowflake, Microsoft Fabric, PySpark |
+| **Reporting Quality** | Data profiling, validation, reconciliation, data quality audits, reporting standards |
+| **Business Partnership** | Requirements gathering, stakeholder communication, data storytelling, technical-to-business translation |
+
+---
+
+## Experience Highlights
+
+- **120+ users** supported through a unified Power BI reporting solution consolidating 4 legacy reports.
+- **10M+ records** analyzed and validated using SQL and Python to investigate trends and data quality issues.
+- **40+ operational KPIs** delivered through a 5-page Tableau dashboard replacing 6 spreadsheet reports across 3 business teams.
+- **92% data accuracy** achieved through data quality audits, reconciliation, and validation of large financial datasets.
+
+---
+
+## Certification
+
+**Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)**  
+Microsoft Fabric · semantic models · analytics engineering · Power BI
+
+---
+
+## What I’m Looking For
+
+Data Analyst · Business Intelligence Analyst · BI Data Analyst · Operations Data Analyst and related analytics roles where SQL, analysis, visualization, reporting, and stakeholder communication are central to the work.
