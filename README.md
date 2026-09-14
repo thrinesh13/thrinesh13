@@ -56,6 +56,7 @@ Analyzed **1,254 trading days** of Apple market data and tested four assumptions
 
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Advanced Excel" />
   <img src="https://img.shields.io/badge/Microsoft_Fabric-742774?style=flat-square&logo=microsoft&logoColor=white" alt="Microsoft Fabric" />
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -68,6 +69,7 @@ Analyzed **1,254 trading days** of Apple market data and tested four assumptions
 | Area | Tools and methods |
 |---|---|
 | Business intelligence | Power BI, DAX, Power Query, Tableau, semantic models, star schemas, KPI design |
+| Excel analytics | Advanced Excel, PivotTables, Power Query, Power Pivot, formulas, financial analysis, reporting automation |
 | Data engineering | Microsoft Fabric, Azure Data Factory, PySpark, Delta Lake, dbt, ETL/ELT |
 | Data analysis | SQL, Python, pandas, NumPy, statistical analysis, cohort analysis, segmentation |
 | Data platforms | SQL Server, Oracle, PostgreSQL, Snowflake, BigQuery |
