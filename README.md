@@ -2,11 +2,11 @@
 
 ### Data & Business Intelligence Analyst
 
-I build governed analytics solutions that turn multi-source data into reliable reporting, operational insight, and decision support. My portfolio focuses on **healthcare, finance, and operations analytics**, using SQL, Python, Microsoft Fabric, Power BI, and statistical analysis.
+I am a Data and Business Intelligence Analyst with **five years of experience** turning large, multi-source datasets into reliable reporting, operational insight, and decision support. My work and portfolio focus on **healthcare, finance, and operations analytics**, using SQL, Python, Microsoft Fabric, Power BI, Tableau, and statistical analysis.
 
 **Microsoft Certified: Fabric Analytics Engineer Associate**
 
-[LinkedIn](https://www.linkedin.com/in/thrineshvuribindi) · [Email](mailto:thrineshvuribindi@gmail.com)
+St. Louis, Missouri · [LinkedIn](https://www.linkedin.com/in/thrineshvuribindi) · [Email](mailto:thrineshvuribindi@gmail.com)
 
 ## Featured projects
 
@@ -47,17 +47,17 @@ Analyzed **1,254 trading days** of Apple market data and tested four assumptions
 ## Professional impact
 
 - Consolidated four legacy reports into one Power BI solution serving **120+ users**.
-- Built and maintained **10+ Power BI reports** using reusable star-schema models and DAX measures.
-- Defined **40+ KPIs** with stakeholders across four business units.
-- Improved large-report load time from **13 seconds to 6 seconds**.
-- Validated **10M+ records** and reduced manual validation work by approximately **85%**.
-- Automated reconciliation workflows, leaving only exceptions for manual review.
+- Analyzed and validated **10M+ records** and resolved **six recurring data-integrity issues** affecting downstream reporting.
+- Replaced **six spreadsheet reports across three business teams** with a five-page Tableau dashboard tracking **40+ operational KPIs**.
+- Reduced manual reconciliation effort by **85%** using Python and SQL while leaving exceptions for review.
+- Reduced operating costs by **8%** through pricing, cost, and revenue analysis.
+- Improved financial-data accuracy to **92%** and saved **two hours per recurring report** through validation and Excel workflow automation.
 
 ## Certification
 
 **Microsoft Certified: Fabric Analytics Engineer Associate**  
 Earned February 26, 2026 · Expires February 27, 2027  
-[View certification repository](https://github.com/thrinesh13/certifications) · [Verify credential](https://learn.microsoft.com/en-us/users/trineshvuribindi-2141/credentials/ee8e4ff074331db2)
+[View certification repository](https://github.com/thrinesh13/certifications) · [Verify credential](https://learn.microsoft.com/api/credentials/share/en-us/TRINESHVURIBINDI-2141/EE8E4FF074331DB2?sharingId=979AA3280A84AE7C)
 
 ## Current focus
 
