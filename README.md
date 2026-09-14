@@ -27,35 +27,49 @@ I work across the analytics lifecycle: understanding stakeholder questions, prof
 
 ## Selected Analytics Projects
 
+Each project demonstrates a different part of analytics work—from owning data through the reporting layer, to evaluating business processes, to applying statistical methods for evidence-based analysis.
+
 ### [Operating Room Scheduling Reliability & Cost Exposure](https://github.com/thrinesh13/OR-Scheduling-Reliability-Analytics)
 
-`Power BI` `SQL` `Microsoft Fabric` `PySpark` `DAX` `Data Modeling`
+**End-to-End BI & Analytics | Source Data → Data Quality → Modeling → Power BI Reporting**
 
-Built an end-to-end analytics solution from **1.9M+ perioperative records**, producing **48,118 analysis-ready surgical cases across 418 procedures**. Developed a Power BI semantic model and analyzed scheduling variance to quantify a **54.1-minute mean absolute difference** and **$15.8M–$27.1M in estimated annual gross time-cost exposure** under documented scenarios.
+`Microsoft Fabric` `PySpark` `Spark SQL` `ETL/ELT` `Data Quality` `Star Schema` `Semantic Model` `DAX` `Power BI` `KPI Development`
 
-**Shows:** data preparation · data quality investigation · star-schema modeling · KPI development · Power BI · operational analysis · business impact
+Owned the analytical workflow from raw perioperative source files to decision-ready reporting. Ingested and transformed **1.9M+ records** through a Bronze/Silver/Gold medallion architecture, profiled and resolved timestamp and data-quality issues, and produced **48,118 curated surgical cases across 418 procedures**. Built a star-schema analytical model and Power BI semantic layer with reusable DAX measures to evaluate scheduling reliability and operational performance.
 
-[View case study →](https://github.com/thrinesh13/OR-Scheduling-Reliability-Analytics)
+**Business outcome:** Quantified a **54.1-minute mean absolute scheduling difference** and estimated **$15.8M–$27.1M in annual gross time-cost exposure** under documented planning scenarios.
+
+**Recruiter signal:** end-to-end data ownership · data ingestion · ETL/ELT · data profiling · data validation · transformation · data modeling · semantic modeling · KPI development · dashboard reporting · operational analytics · data storytelling
+
+[View end-to-end BI case study →](https://github.com/thrinesh13/OR-Scheduling-Reliability-Analytics)
 
 ### [Medicare Claims Processing Analytics](https://github.com/thrinesh13/Medicare-Claims-Processing-Analytics)
 
-`Python` `SQL` `Power BI` `Decision Analytics`
+**Operational & Decision Analytics | Business Rules → Scenario Analysis → Reporting → Recommendation**
 
-Evaluated alternative claims-processing policies to understand automation, incorrect approvals, and operational tradeoffs. Compared manual review, basic validation checks, and a checks-plus-risk-score approach using a documented evaluation framework.
+`Python` `SQL` `Power BI` `Exploratory Data Analysis` `Business Rules` `Scenario Analysis` `Data Visualization` `Decision Support`
 
-**Shows:** exploratory analysis · business-rule evaluation · SQL/Python analysis · visualization · decision support
+Analyzed a claims-processing workflow to determine how different validation policies affect automation, incorrect approvals, and operational efficiency. Used SQL and Python to prepare and analyze the data, evaluate business rules, compare manual review with alternative processing scenarios, and translate the results into reporting that makes policy tradeoffs easier to understand.
 
-[Explore analysis →](https://github.com/thrinesh13/Medicare-Claims-Processing-Analytics)
+**Business outcome:** Demonstrated how combining validation checks with risk scoring changes automation and approval quality, providing a measurable framework for comparing processing strategies rather than relying on a single operational metric.
+
+**Recruiter signal:** business problem analysis · exploratory data analysis · SQL · Python · process analytics · business-rule validation · scenario modeling · performance metrics · visualization · reporting · actionable insights · decision support
+
+[Explore decision analytics project →](https://github.com/thrinesh13/Medicare-Claims-Processing-Analytics)
 
 ### [Statistical Time-Series Analysis](https://github.com/thrinesh13/Statistical-Time-series-analysis)
 
-`Python` `Pandas` `SciPy` `Statistics` `Visualization`
+**Statistical & Exploratory Analytics | EDA → Hypothesis Testing → Visualization → Interpretation**
 
-Analyzed **1,254 trading days** of Apple market data using trend analysis, hypothesis testing, correlation analysis, and visualization. Tested four risk assumptions and rejected three at the **95% confidence level**.
+`Python` `Pandas` `NumPy` `SciPy` `Statistical Analysis` `Hypothesis Testing` `Trend Analysis` `Correlation Analysis` `Data Visualization`
 
-**Shows:** statistical analysis · hypothesis testing · trend analysis · data visualization · analytical communication
+Analyzed **1,254 trading days** of Apple market data to investigate trends, relationships, volatility, and distribution behavior. Used Python for data preparation and exploratory data analysis, then applied hypothesis testing, correlation analysis, and statistical visualization to test four defined risk assumptions.
 
-[Review study →](https://github.com/thrinesh13/Statistical-Time-series-analysis)
+**Analytical outcome:** Rejected **3 of 4 assumptions at the 95% confidence level**, showing how statistical evidence can challenge intuitive conclusions and support more defensible interpretation of trends and risk.
+
+**Recruiter signal:** EDA · statistical analysis · hypothesis testing · trend analysis · correlation analysis · time-series analysis · Python · data visualization · analytical reasoning · insight communication
+
+[Review statistical analysis →](https://github.com/thrinesh13/Statistical-Time-series-analysis)
 
 ---
 
