@@ -1,63 +1,64 @@
-# Hi, I'm Thrinesh Vuribindi 👋
+# Thrinesh Vuribindi
 
-**Data Analyst | 5 years turning messy data into business decisions | Power BI · SQL · Python · Excel · GCP · Azure**
+### Data & Business Intelligence Analyst
 
-I turn messy, high-volume data into decisions businesses act on. Five years building star-schema models on millions of records, SQL pipelines that got 40% faster, and ML models that flag risk at 87% precision. Microsoft Certified Fabric Analytics Engineer.
-
-📍 Chicago, IL · 📫 thrineshvuribindi@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/thrineshvuribindi)
-
----
-
-## 🛠️ Tech Stack
-
-**BI & Visualization**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat&logoColor=white)
-
-**Data & Databases**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_SQL-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-
-**Analytics**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-742774?style=flat&logoColor=white)
-
----
-
-## 🚀 Featured Project
-
-### [Medicare Claims Auto Approval Pipeline](https://github.com/thrinesh13/Medicare-Claims-AutoApproval-pipeline)
-
-End-to-end claims analytics pipeline: root cause analysis across joined SQL tables, a cost-sensitive classification model flagging high-risk claims at **87% precision**, and an operational KPI dashboard.
-
-`Python` `SQL` `Power BI` `DAX` `Power Query` `Excel`
-
----
-
-## 📜 Certification
+I build governed analytics solutions that turn multi-source data into reliable reporting, operational insight, and decision support. My portfolio focuses on **healthcare, finance, and operations analytics**, using SQL, Python, Microsoft Fabric, Power BI, and statistical analysis.
 
 **Microsoft Certified: Fabric Analytics Engineer Associate**
 
-Power BI is moving to Fabric, and I'm already there: lakehouses, data warehouses, semantic models, SQL analytics, and performance-tuned DAX on Microsoft's unified data platform.
-→ [Verify credential](https://learn.microsoft.com/en-us/users/trineshvuribindi-2141/credentials/ee8e4ff074331db2)
+[LinkedIn](https://www.linkedin.com/in/thrineshvuribindi) · [Email](mailto:thrineshvuribindi@gmail.com)
 
----
+## Featured projects
 
-## 📈 Impact Highlights 
+### [Operating Room Scheduling Reliability & Cost Exposure](https://github.com/thrinesh13/OR-Scheduling-Reliability-Analytics)
 
-- Built 10+ interactive Power BI reports with 40+ KPIs for performance monitoring and ad-hoc analysis
-- Cut dashboard load times from 13s to 6s on 4M+ records with star-schema modeling and optimized DAX
-- Automated Snowflake data quality checks across 10M+ records, reducing manual validation by 85%
-- Developed predictive models for customer segmentation and claims risk scoring (K-means, RFM, classification)
-- Uncovered a 26% retention decline among first-quarter signup customers by analyzing 500K+ records, driving retention of 10% of at-risk accounts
-- Modeled pricing and profitability in Excel across 100K+ transactions, improving margin accuracy by 8%
+**Healthcare · Operations · Microsoft Fabric · Power BI**
 
+Built an end-to-end medallion analytics solution from **1.9M+ perioperative records**, producing a curated model of **48,118 surgical cases across 418 procedures**. The analysis found a **54.1-minute average absolute difference** from historical procedure-duration benchmarks and estimated **$15.8M–$27.1M in annual gross cost exposure** under two planning scenarios.
+
+`Microsoft Fabric` `PySpark` `Spark SQL` `Delta Lake` `Power BI` `DAX` `PBIP`
+
+### [Medicare Claims Processing Analytics](https://github.com/thrinesh13/Medicare-Claims-Processing-Analytics)
+
+**Healthcare · Finance · Decision Analytics**
+
+Compared manual review, rules-based processing, and checks-plus-score policies on **6,627 evaluation-period submissions**. Under the documented assumptions, the combined policy prevented **100 incorrect automatic approvals** compared with basic checks and produced **$73,194 in net savings** versus manual review.
+
+`PostgreSQL` `SQL` `Python` `Jupyter` `Decision Economics` `Sensitivity Analysis`
+
+### [Apple Statistical Time-Series Analysis](https://github.com/thrinesh13/Statistical-Time-series-analysis)
+
+**Finance · Statistical Analysis · Python**
+
+Analyzed **1,254 trading days** of Apple market data and tested four assumptions involving volatility, volume, calendar effects, and return distributions. The work shows how measurement choices and distribution assumptions can materially change financial conclusions.
+
+`Python` `pandas` `NumPy` `SciPy` `Matplotlib` `Seaborn` `Hypothesis Testing`
+
+## What I work with
+
+| Area | Tools and methods |
+|---|---|
+| Business intelligence | Power BI, DAX, Power Query, Tableau, semantic models, star schemas, KPI design |
+| Data engineering | Microsoft Fabric, Azure Data Factory, PySpark, Delta Lake, dbt, ETL/ELT |
+| Data analysis | SQL, Python, pandas, NumPy, statistical analysis, cohort analysis, segmentation |
+| Data platforms | SQL Server, Oracle, PostgreSQL, Snowflake, BigQuery |
+| Data quality | Profiling, validation, reconciliation, repair flags, data dictionaries, UAT |
+
+## Professional impact
+
+- Consolidated four legacy reports into one Power BI solution serving **120+ users**.
+- Built and maintained **10+ Power BI reports** using reusable star-schema models and DAX measures.
+- Defined **40+ KPIs** with stakeholders across four business units.
+- Improved large-report load time from **13 seconds to 6 seconds**.
+- Validated **10M+ records** and reduced manual validation work by approximately **85%**.
+- Automated reconciliation workflows, leaving only exceptions for manual review.
+
+## Certification
+
+**Microsoft Certified: Fabric Analytics Engineer Associate**  
+Earned February 26, 2026 · Expires February 27, 2027  
+[View certification repository](https://github.com/thrinesh13/certifications) · [Verify credential](https://learn.microsoft.com/en-us/users/trineshvuribindi-2141/credentials/ee8e4ff074331db2)
+
+## Current focus
+
+I am building portfolio work that demonstrates the full analytics lifecycle: source profiling, data transformation, quality controls, analytical modeling, business-facing visualization, and clear documentation of assumptions and limitations.
