@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Thrinesh Vuribindi Data and Business Intelligence Analyst</title>
+  <desc id="desc">Professional portfolio banner for healthcare finance and operations analytics</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07192f"/>
+      <stop offset="0.55" stop-color="#0b3154"/>
+      <stop offset="1" stop-color="#0a5264"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#48cae4"/>
+      <stop offset="1" stop-color="#80ffdb"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="9" flood-color="#00111f" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <circle cx="1070" cy="50" r="160" fill="#48cae4" opacity="0.05"/>
+  <circle cx="1135" cy="275" r="190" fill="#80ffdb" opacity="0.05"/>
+  <path d="M0 286 C240 240 400 330 650 274 C860 228 1000 267 1200 218 L1200 320 L0 320 Z" fill="#48cae4" opacity="0.055"/>
+
+  <g transform="translate(70 62)">
+    <rect width="8" height="180" rx="4" fill="url(#accent)"/>
+    <text x="34" y="55" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="46" font-weight="700">Thrinesh Vuribindi</text>
+    <text x="36" y="99" fill="#b9e9f2" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Data &amp; Business Intelligence Analyst</text>
+    <text x="36" y="143" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="18" letter-spacing="1.7">HEALTHCARE  •  FINANCE  •  OPERATIONS</text>
+    <text x="36" y="180" fill="#a8cad6" font-family="Segoe UI, Arial, sans-serif" font-size="16">SQL  |  Python  |  Microsoft Fabric  |  Power BI  |  Tableau</text>
+  </g>
+
+  <g transform="translate(875 77)" filter="url(#shadow)">
+    <rect width="240" height="166" rx="18" fill="#0d2945" stroke="#377b91" stroke-width="1.5"/>
+    <line x1="38" y1="132" x2="205" y2="132" stroke="#5d8ca0" stroke-width="1"/>
+    <line x1="38" y1="36" x2="38" y2="132" stroke="#5d8ca0" stroke-width="1"/>
+    <rect x="60" y="88" width="23" height="44" rx="3" fill="#48cae4"/>
+    <rect x="98" y="65" width="23" height="67" rx="3" fill="#55d6be"/>
+    <rect x="136" y="76" width="23" height="56" rx="3" fill="#48cae4"/>
+    <rect x="174" y="44" width="23" height="88" rx="3" fill="#80ffdb"/>
+    <path d="M60 77 L109 50 L148 61 L186 28" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="60" cy="77" r="4" fill="#ffffff"/>
+    <circle cx="109" cy="50" r="4" fill="#ffffff"/>
+    <circle cx="148" cy="61" r="4" fill="#ffffff"/>
+    <circle cx="186" cy="28" r="4" fill="#ffffff"/>
+  </g>
+</svg>
