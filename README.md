@@ -14,7 +14,7 @@ I build the data foundation behind reliable decisions: profile and validate the 
 
 My focus is **healthcare, finance, and operations**, where data quality, consistent definitions, lineage, privacy, and access matter as much as the final dashboard.
 
-<p align="center"><strong>St. Louis, Missouri · Open to Data Analyst and Business Intelligence opportunities</strong></p>
+<p align="center"><strong>St. Louis, Missouri · Open to relocation · Available for onsite, hybrid, or remote roles across the United States</strong></p>
 
 ---
 
