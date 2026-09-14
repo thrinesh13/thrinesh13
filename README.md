@@ -91,7 +91,3 @@ Analyzed **1,254 trading days** of Apple market data and tested four assumptions
 **Microsoft Certified: Fabric Analytics Engineer Associate**  
 Earned February 26, 2026 · Expires February 27, 2027  
 [View certification repository](https://github.com/thrinesh13/certifications) · [Verify credential](https://learn.microsoft.com/api/credentials/share/en-us/TRINESHVURIBINDI-2141/EE8E4FF074331DB2?sharingId=979AA3280A84AE7C)
-
-## Current Focus
-
-I am building portfolio work that demonstrates the full analytics lifecycle: source profiling, data transformation, quality controls, analytical modeling, business-facing visualization, and clear documentation of assumptions and limitations.
