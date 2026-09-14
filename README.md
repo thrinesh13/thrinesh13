@@ -8,7 +8,13 @@
   <a href="https://learn.microsoft.com/api/credentials/share/en-us/TRINESHVURIBINDI-2141/EE8E4FF074331DB2?sharingId=979AA3280A84AE7C"><img src="https://img.shields.io/badge/Microsoft-Fabric_Certified-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Fabric certification" /></a>
 </p>
 
-I am a Data and Business Intelligence Analyst with **five years of experience** turning large, multi-source datasets into reliable reporting, operational insight, and decision support. My work and portfolio focus on **healthcare, finance, and operations analytics**, using SQL, Python, Microsoft Fabric, Power BI, Tableau, and statistical analysis.
+## Bring the Data. I Will Make It Decision Ready.
+
+I work best where the data is messy and the business question matters. Give me raw data from spreadsheets, databases, APIs, or cloud platforms, and I will profile it, investigate inconsistencies, establish quality controls, transform it into analysis-ready models, and deliver insights people can act on.
+
+My strength is owning the full analytics path—not stopping at a dashboard. I connect data engineering, analysis, and business context through reliable pipelines, clear metric definitions, governed semantic models, and decision-focused reporting. I pay close attention to **data quality, lineage, privacy, and access** because an insight is only valuable when the underlying data can be trusted and handled responsibly.
+
+That approach is especially important in **healthcare, finance, and operations**, where inaccurate data or unclear definitions can lead to costly decisions.
 
 <p align="center"><strong>St. Louis, Missouri · Open to Data Analyst and Business Intelligence opportunities</strong></p>
 
