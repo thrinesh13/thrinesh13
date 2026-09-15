@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Thrinesh Vuribindi — Data & Business Intelligence Analyst. Better reporting. Sharper decisions." width="100%" />
+  <img src="./assets/profile-banner.svg?v=20260915" alt="Thrinesh Vuribindi — Data & Business Intelligence Analyst. Better reporting. Sharper decisions." width="100%" />
 </p>
 
 <p align="center">
