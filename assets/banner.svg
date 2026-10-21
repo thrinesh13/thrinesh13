@@ -1,13 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
   <title id="t">Thrinesh Vuribindi, Data Analyst</title>
   <desc id="d">Turning raw data from multiple systems into reliable reporting and decision-ready insights. Sources, model, analyze, report, insight.</desc>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" class="g1"/><stop offset="1" class="g2"/></linearGradient><clipPath id="c"><rect x="1" y="1" width="1198" height="298" rx="16"/></clipPath></defs>
   <style>
-    .bg{fill:#F6F8F7}.edge{stroke:#D9E4E0}.accent{fill:#0D6A61}.eyebrow{fill:#0D6A61}
+    .bg{fill:url(#g)}.g1{stop-color:#DCEFEA}.g2{stop-color:#FFFFFF}.edge{stroke:#B9D8D1}.top{fill:#0D6A61}.accent{fill:#0D6A61}.eyebrow{fill:#0D6A61}
     .name{fill:#14211E}.line{fill:#4A5A56}
-    .src{fill:#FFFFFF;stroke:#9CC9C2}.flow{stroke:#9CC9C2;fill:none}.hub{fill:#0D6A61}
-    .dash{fill:#FFFFFF;stroke:#0D6A61}.b1{fill:#9CC9C2}.b2{fill:#0D6A61}.mark{fill:#B5701A}.cap{fill:#5B6B67}.capi{fill:#B5701A}.trend{stroke:#B5701A;fill:none}.ins{fill:#FBF1E3;stroke:#B5701A}.insarrow{stroke:#B5701A}
+    .src{fill:#FFFFFF;stroke:#5FA89D}.flow{stroke:#5FA89D;fill:none}.hub{fill:#0D6A61}
+    .dash{fill:#FFFFFF;stroke:#0D6A61}.b1{fill:#7FBDB3}.b2{fill:#0D6A61}.mark{fill:#B5701A}.cap{fill:#5B6B67}.capi{fill:#B5701A}.trend{stroke:#B5701A;fill:none}.ins{fill:#FBF1E3;stroke:#B5701A}.insarrow{stroke:#B5701A}
     @media (prefers-color-scheme: dark){
-      .bg{fill:#0F1A18}.edge{stroke:#22332F}.accent{fill:#3FAE9F}.eyebrow{fill:#5CC8B8}
+      .g1{stop-color:#0E2C27}.g2{stop-color:#0D1513}.edge{stroke:#24443E}.top{fill:#3FAE9F}.accent{fill:#3FAE9F}.eyebrow{fill:#5CC8B8}
       .name{fill:#EEF4F2}.line{fill:#A7B8B3}
       .src{fill:#14231F;stroke:#2F5E57}.flow{stroke:#2F5E57}.hub{fill:#3FAE9F}
       .dash{fill:#14231F;stroke:#3FAE9F}.b1{fill:#2F5E57}.b2{fill:#3FAE9F}.mark{fill:#E0A04A}.cap{fill:#8FA39E}.capi{fill:#E0A04A}.trend{stroke:#E0A04A}.ins{fill:#2A2114;stroke:#E0A04A}.insarrow{stroke:#E0A04A}
@@ -15,12 +16,13 @@
     text{font-family:"Segoe UI",-apple-system,"Helvetica Neue",Arial,sans-serif}
   </style>
   <rect class="bg edge" x="1" y="1" width="1198" height="298" rx="16" stroke-width="2"/>
+  <rect class="top" x="0" y="0" width="1200" height="8" clip-path="url(#c)"/>
   <rect class="accent" x="56" y="82" width="5" height="160" rx="2.5"/>
   <text class="eyebrow" x="84" y="104" font-size="15" font-weight="600" letter-spacing="3">DATA ANALYST · BI DEVELOPMENT · DATA INTEGRATION</text>
-  <text class="name" x="81" y="170" font-size="56" font-weight="700" letter-spacing="-1">Thrinesh Vuribindi</text>
+  <text class="name" x="81" y="170" font-size="58" font-weight="800" letter-spacing="-1">Thrinesh Vuribindi</text>
   <text class="line" x="84" y="212" font-size="20">Turning raw data from multiple systems</text>
   <text class="line" x="84" y="240" font-size="20">into reliable reporting and decision-ready insights.</text>
-  <g transform="translate(712,0)" stroke-width="2">
+  <g transform="translate(700,-27) scale(1.18)" stroke-width="2">
     <rect class="src" x="0" y="102" width="46" height="24" rx="5"/>
     <rect class="src" x="0" y="138" width="46" height="24" rx="5"/>
     <rect class="src" x="0" y="174" width="46" height="24" rx="5"/>
