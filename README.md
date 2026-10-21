@@ -9,9 +9,9 @@
   <a href="https://learn.microsoft.com/en-us/users/trineshvuribindi-2141/credentials/ee8e4ff074331db2"><img src="https://img.shields.io/badge/Microsoft%20Certified-DP--600-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Certified DP-600" /></a>
 </p>
 
-Data Analyst at **UnitedHealth Group** with 4.5+ years building the pipelines, data models, and Power BI dashboards behind claims, cost, and performance reporting.
+Data Analyst with 4.5+ years building ETL and data pipelines, data models, and Power BI dashboards. I monitor KPIs, run root cause analysis on performance and cost, and turn complex data into actionable recommendations for stakeholders.
 
-This GitHub holds my project work, with the code and documentation behind each analysis, so you can trace how the numbers were produced, not only the final dashboard.
+Each project here starts with a business question and works through what is happening, why it is happening, and what action improves the outcome, with the code and documentation behind every number.
 
 ## Projects
 
